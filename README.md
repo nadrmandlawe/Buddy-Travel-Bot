@@ -138,4 +138,3 @@ Contributions are welcome! To contribute:
 4. Submit a pull request.
 
 ---
-# Buddy-Travel-Bot
